@@ -1,2 +1,4 @@
 #PRAKT2RPL
-#PERUBAHA DI LOKAL LUR
+- Asik
+- Mantab
+- Pusing
